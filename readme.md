@@ -1,7 +1,7 @@
 # AngularJS Quiz application
 
 
-This is a responsive single page application that implements AngularJS features including.
+This is a responsive single page application that implements AngularJS features.
 
 
 Based on online tutorial.
